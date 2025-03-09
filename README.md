@@ -24,17 +24,17 @@ This project aims to predict whether a mushroom is edible or poisonous based on 
 
 /mushroom-classification
 │── data/                   # Dataset
-│── models/                 # Trained models (if applicable)
+│── models/                 # Trained models 
 │── notebook/               # Jupyter Notebooks
-│── app/                    # Deployment files (Flask/Streamlit)
+│── app/                    # Deployment files (Flask)
 │── requirements.txt        # Python dependencies
 │── README.md               # Project Documentation
 
      
 
 ## 📊 Model Performance
-- *Model Used*: Logistic Regression/SVC/DecisionTree, RandomForestClaasifier (Specify your model)
-- *Accuracy*: 95%+ (Mention actual performance metrics)
+- *Model Used*: Logistic Regression/SVC/DecisionTree/RandomForestClassifier 
+- *Accuracy*: 95%+ 
 - *Evaluation Metrics*:
   - Precision, Recall, F1-score
   - Confusion Matrix
